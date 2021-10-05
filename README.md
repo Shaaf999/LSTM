@@ -1,1 +1,1 @@
-# Simple and Packed LSTM
+# Simple and Stacked LSTM
